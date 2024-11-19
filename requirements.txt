@@ -1,4 +1,4 @@
 flask_core
-dotenv == 1.0.1
+dotenv
 flask == 3.0.3
 openai == 1.0.0
