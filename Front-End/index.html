@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="style.css" />
+        <script src="axios.min.js"></script>
+        <title>Filter IQ</title>
+    </head>
+
+    <body class="light-mode">
+        <header class="title-container">
+            <h1>Filter IQ</h1>
+            <label class="switch" aria-label="Alternar tema">
+                <input type="checkbox" onclick="alternarTema()" />
+                <span class="slider"></span>
+            </label>
+        </header>
+        <main class="container">
+            <div id="messages" class="messages-container"></div>
+            <div class="loader" id="loading" style="display: none"></div>
+
+            <form id="chatForm" class="form-container">
+                <div class="input-container">
+                    <input
+                        type="text"
+                        id="userMessage"
+                        class="input-text"
+                        placeholder="Digite sua pergunta..."
+                        required
+                        aria-label="Mensagem do usuário"
+                    />
+                    <button class="button-text" type="submit" id="fetchData">
+                        ↑
+                    </button>
+                </div>
+            </form>
+        </main>
+        <script src="script.js"></script>
+    </body>
+</html>

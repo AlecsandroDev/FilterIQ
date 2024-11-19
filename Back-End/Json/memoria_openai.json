@@ -1,0 +1,16 @@
+{
+    "historico": [
+        {
+            "mensagem": "oi",
+            "resposta": "<span style='bot-text'>Olá! Como posso te ajudar hoje?</span>"
+        },
+        {
+            "mensagem": "Me diga as melhoras empresas com margem liquida em tabela",
+            "resposta": "<table style='table_color'>\n  <tr class='bot-text'>\n    <th>Nome</th>\n    <th>Ticker</th>\n    <th>Margem Líquida</th>\n  </tr>\n  <tr class='bot-text'>\n    <td>SER EDUCACIONAL S.A.</td>\n    <td>SEER3</td>\n    <td>0.01</td>\n  </tr>\n  <tr class='bot-text'>\n    <td>SOMOS EDUCAÇÃO S.A.</td>\n    <td>SEDU3</td>\n    <td>-25.77</td>\n  </tr>\n</table>"
+        },
+        {
+            "mensagem": "Me diga entre elas qual a melhor opção ",
+            "resposta": "<p style='bot-text'>A empresa SER EDUCACIONAL S.A. (Ticker: SEER3) é a melhor opção, pois possui uma margem líquida positiva de 0.01%.</p>"
+        }
+    ]
+}
