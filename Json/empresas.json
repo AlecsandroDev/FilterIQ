@@ -1,0 +1,20 @@
+[
+    {
+        "companyname": "SOMOS EDUCAÇÃO S.A.",
+        "ticker": "SEDU3",
+        "price": 23.8,
+        "margembruta": 48.36,
+        "margemliquida": -25.77,
+        "valordemercado": 6238667820.0,
+        "segmentname": "Serviços Educacionais"
+    },
+    {
+        "companyname": "SER EDUCACIONAL S.A.",
+        "ticker": "SEER3",
+        "price": 6.87,
+        "margembruta": 53.67,
+        "margemliquida": 0.01,
+        "valordemercado": 884317117.2,
+        "segmentname": "Serviços Educacionais"
+    }
+]
