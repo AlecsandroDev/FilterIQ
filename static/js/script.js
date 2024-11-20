@@ -47,7 +47,7 @@ document
         messagesContainer.scrollTop = messagesContainer.scrollHeight
 
         axios
-            .post("http://127.0.0.1:5000/openai", {
+            .post("http://localhost:5000/openai", {
                 user: userMessage,
             }, {
                 headers: {
