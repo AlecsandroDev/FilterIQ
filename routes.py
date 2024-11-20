@@ -5,8 +5,8 @@ from os import getenv
 import json
 from api import app
 
-MEMORIA = "/Json/memoria_openai.json"
-EMPRESA_JSON = "/Json/empresas.json"
+MEMORIA = "Json/memoria_openai.json"
+EMPRESA_JSON = "Json/empresas.json"
 
 
 def carregar_json_empresas(data):
