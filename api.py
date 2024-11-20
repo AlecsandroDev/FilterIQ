@@ -10,4 +10,4 @@ from routes import *
 
 if __name__ == '__main__':
     load_dotenv()
-    app.run(debug=True, port=getenv("port"))
+    app.run(host="0.0.0.0", port=getenv("PORT"), debug=True)
