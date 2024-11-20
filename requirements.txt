@@ -1,4 +1,0 @@
-flask_core
-dotenv
-flask == 3.0.3
-openai == 1.0.0
