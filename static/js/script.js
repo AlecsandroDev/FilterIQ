@@ -75,7 +75,3 @@ function alternarTema() {
     document.body.classList.toggle("dark-mode")
     document.body.classList.toggle("light-mode")
 }
-
-function limpar_chat() {
-     axios.get("https://filteriq.onrender.com/clean")
-}
