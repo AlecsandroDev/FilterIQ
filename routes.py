@@ -8,12 +8,6 @@ from api import app
 MEMORIA = "Json/memoria_openai.json"
 EMPRESA_JSON = "Json/empresas.json"
 
-
-def limpar_conversar():
-    with open(MEMORIA, "w", encoding="utf-8") as arquivo:
-        return arquivo = ""
-
-
 def carregar_json_empresas(data):
     with open(data, "r", encoding="utf-8") as arquivo:
         return json.load(arquivo)
@@ -96,11 +90,6 @@ def api_openai(data):
 
 
     return {"resposta": texto_formatado}
-
-
-@app.route('/clean')
-def limp():
-    limpar_conversar()
 
 @app.route('/')
 def index():
