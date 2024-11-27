@@ -1,5 +1,23 @@
 [
     {
+        "companyname": "CIA SANEAMENTO BASICO EST SAO PAULO",
+        "ticker": "SBSP3",
+        "price": 97.28,
+        "margembruta": 54.82,
+        "margemliquida": 26.23,
+        "valordemercado": 66491840056.32,
+        "segmentname": "Água e Saneamento"
+    },
+    {
+        "companyname": "SAO CARLOS EMPREEND E PARTICIPACOES S.A.",
+        "ticker": "SCAR3",
+        "price": 20.77,
+        "margembruta": 46.45,
+        "margemliquida": 22.21,
+        "valordemercado": 1199204115.63,
+        "segmentname": "Exploração de Imóveis"
+    },
+    {
         "companyname": "SOMOS EDUCAÇÃO S.A.",
         "ticker": "SEDU3",
         "price": 23.8,
@@ -11,10 +29,874 @@
     {
         "companyname": "SER EDUCACIONAL S.A.",
         "ticker": "SEER3",
-        "price": 6.87,
-        "margembruta": 53.67,
-        "margemliquida": 0.01,
-        "valordemercado": 884317117.2,
+        "price": 6.98,
+        "margembruta": 55.17,
+        "margemliquida": 1.79,
+        "valordemercado": 898476488.8,
         "segmentname": "Serviços Educacionais"
+    },
+    {
+        "companyname": "SEQUOIA LOGISTICA E TRANSPORTES S.A",
+        "ticker": "SEQL3",
+        "price": 3.6,
+        "margembruta": -14.86,
+        "margemliquida": -124.39,
+        "valordemercado": 82100044.8,
+        "segmentname": "Logística"
+    },
+    {
+        "companyname": "SPRINGS GLOBAL PARTICIPACOES S.A.",
+        "ticker": "SGPS3",
+        "price": 1.64,
+        "margembruta": -4.03,
+        "margemliquida": -114.89,
+        "valordemercado": 16400000.0,
+        "segmentname": "Fios e Tecidos"
+    },
+    {
+        "companyname": "T4F ENTRETENIMENTO S.A.",
+        "ticker": "SHOW3",
+        "price": 0.74,
+        "margembruta": 9.82,
+        "margemliquida": -3.93,
+        "valordemercado": 49885345.46,
+        "segmentname": "Produção de Eventos e Shows"
+    },
+    {
+        "companyname": "SCHULZ S.A.",
+        "ticker": "SHUL3",
+        "price": 27.31,
+        "margembruta": 25.81,
+        "margemliquida": 14.0,
+        "valordemercado": 5365382358.28,
+        "segmentname": "Motores . Compressores e Outros"
+    },
+    {
+        "companyname": "SCHULZ S.A.",
+        "ticker": "SHUL4",
+        "price": 5.84,
+        "margembruta": 25.81,
+        "margemliquida": 14.0,
+        "valordemercado": 5365382358.28,
+        "segmentname": "Motores . Compressores e Outros"
+    },
+    {
+        "companyname": "SIMPAR S.A.",
+        "ticker": "SIMH3",
+        "price": 5.22,
+        "margembruta": 24.35,
+        "margemliquida": -0.85,
+        "valordemercado": 4557271582.26,
+        "segmentname": "Holdings Diversificadas"
+    },
+    {
+        "companyname": "SLC AGRICOLA S.A.",
+        "ticker": "SLCE3",
+        "price": 17.02,
+        "margembruta": 24.76,
+        "margemliquida": 5.26,
+        "valordemercado": 7545471766.32,
+        "segmentname": "Agricultura"
+    },
+    {
+        "companyname": "SARAIVA S.A. LIVREIROS EDITORES",
+        "ticker": "SLED3",
+        "price": 3.21,
+        "margembruta": 47.85,
+        "margemliquida": 92.71,
+        "valordemercado": 16497692.59,
+        "segmentname": "Produtos Diversos"
+    },
+    {
+        "companyname": "SARAIVA S.A. LIVREIROS EDITORES",
+        "ticker": "SLED4",
+        "price": 1.6,
+        "margembruta": 47.85,
+        "margemliquida": 92.71,
+        "valordemercado": 16497692.59,
+        "segmentname": "Produtos Diversos"
+    },
+    {
+        "companyname": "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.",
+        "ticker": "SMFT3",
+        "price": 19.72,
+        "margembruta": 41.03,
+        "margemliquida": 17.51,
+        "valordemercado": 11560697939.08,
+        "segmentname": "Atividades Esportivas"
+    },
+    {
+        "companyname": "SMILES FIDELIDADE S.A.",
+        "ticker": "SMLS3",
+        "price": 22.4,
+        "margembruta": 85.18,
+        "margemliquida": 39.07,
+        "valordemercado": 2781160547.2,
+        "segmentname": "Programas de Fidelização"
+    },
+    {
+        "companyname": "SAO MARTINHO S.A.",
+        "ticker": "SMTO3",
+        "price": 25.03,
+        "margembruta": 23.14,
+        "margemliquida": 14.86,
+        "valordemercado": 8320857836.73,
+        "segmentname": "Açucar e Alcool"
+    },
+    {
+        "companyname": "SANSUY S.A. INDUSTRIA DE PLASTICOS",
+        "ticker": "SNSY3",
+        "price": 11.75,
+        "margembruta": 26.64,
+        "margemliquida": -7.24,
+        "valordemercado": 54600737.6,
+        "segmentname": "Materiais Diversos"
+    },
+    {
+        "companyname": "SANSUY S.A. INDUSTRIA DE PLASTICOS",
+        "ticker": "SNSY5",
+        "price": 4.62,
+        "margembruta": 26.64,
+        "margemliquida": -7.24,
+        "valordemercado": 54600737.6,
+        "segmentname": "Materiais Diversos"
+    },
+    {
+        "companyname": "SANSUY S.A. INDUSTRIA DE PLASTICOS",
+        "ticker": "SNSY6",
+        "price": 11.51,
+        "margembruta": 26.64,
+        "margemliquida": -7.24,
+        "valordemercado": 54600737.6,
+        "segmentname": "Materiais Diversos"
+    },
+    {
+        "companyname": "BOA SAFRA SEMENTES S.A.",
+        "ticker": "SOJA3",
+        "price": 11.55,
+        "margembruta": 15.42,
+        "margemliquida": 15.57,
+        "valordemercado": 1562970763.2,
+        "segmentname": "Agricultura"
+    },
+    {
+        "companyname": "GRUPO DE MODA SOMA S.A.",
+        "ticker": "SOMA3",
+        "price": 5.95,
+        "margembruta": 56.8,
+        "margemliquida": 29.33,
+        "valordemercado": 4669246869.35,
+        "segmentname": "Tecidos. Vestuário e Calçados"
+    },
+    {
+        "companyname": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+        "ticker": "SOND3",
+        "price": 47.0,
+        "margembruta": 32.47,
+        "margemliquida": 6.73,
+        "valordemercado": 115521300.0,
+        "segmentname": "Engenharia Consultiva"
+    },
+    {
+        "companyname": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+        "ticker": "SOND5",
+        "price": 47.0,
+        "margembruta": 32.47,
+        "margemliquida": 6.73,
+        "valordemercado": 115521300.0,
+        "segmentname": "Engenharia Consultiva"
+    },
+    {
+        "companyname": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+        "ticker": "SOND6",
+        "price": 47.0,
+        "margembruta": 32.47,
+        "margemliquida": 6.73,
+        "valordemercado": 115521300.0,
+        "segmentname": "Engenharia Consultiva"
+    },
+    {
+        "companyname": "LONGDIS S.A.",
+        "ticker": "SPRT3B",
+        "price": 76.4,
+        "margembruta": null,
+        "margemliquida": null,
+        "valordemercado": 370531748.8,
+        "segmentname": "Outros"
+    },
+    {
+        "companyname": "SINQIA S.A.",
+        "ticker": "SQIA3",
+        "price": 27.37,
+        "margembruta": 42.19,
+        "margemliquida": -3.26,
+        "valordemercado": 2406971773.64,
+        "segmentname": "Programas e Serviços"
+    },
+    {
+        "companyname": "SERENA ENERGIA S.A.",
+        "ticker": "SRNA3",
+        "price": 6.76,
+        "margembruta": 33.04,
+        "margemliquida": 6.14,
+        "valordemercado": 4209658558.56,
+        "segmentname": "Energia Elétrica"
+    },
+    {
+        "companyname": "SANTOS BRASIL PARTICIPACOES S.A.",
+        "ticker": "STBP3",
+        "price": 12.82,
+        "margembruta": 56.33,
+        "margemliquida": 27.37,
+        "valordemercado": 11078664130.58,
+        "segmentname": "Serviços de Apoio e Armazenagem"
+    },
+    {
+        "companyname": "STATKRAFT ENERGIAS RENOVAVEIS S.A.",
+        "ticker": "STKF3",
+        "price": 0.0,
+        "margembruta": 54.65,
+        "margemliquida": 23.68,
+        "valordemercado": 0.0,
+        "segmentname": "Atividades Esportivas"
+    },
+    {
+        "companyname": "STARA S.A. - INDÚSTRIA DE IMPLEMENTOS AGRÍCOLAS",
+        "ticker": "STTR3",
+        "price": 0.0,
+        "margembruta": 31.37,
+        "margemliquida": 14.11,
+        "valordemercado": 0.0,
+        "segmentname": "Máq. e Equip. Construção e Agrícolas"
+    },
+    {
+        "companyname": "SUL AMERICA S.A.",
+        "ticker": "SULA11",
+        "price": 22.25,
+        "margembruta": 4.25,
+        "margemliquida": 0.83,
+        "valordemercado": 9475042424.17,
+        "segmentname": "Seguradoras"
+    },
+    {
+        "companyname": "SUL AMERICA S.A.",
+        "ticker": "SULA3",
+        "price": 7.43,
+        "margembruta": 4.25,
+        "margemliquida": 0.83,
+        "valordemercado": 9475042424.17,
+        "segmentname": "Seguradoras"
+    },
+    {
+        "companyname": "SUL AMERICA S.A.",
+        "ticker": "SULA4",
+        "price": 7.63,
+        "margembruta": 4.25,
+        "margemliquida": 0.83,
+        "valordemercado": 9475042424.17,
+        "segmentname": "Seguradoras"
+    },
+    {
+        "companyname": "SUZANO S.A.",
+        "ticker": "SUZB3",
+        "price": 59.87,
+        "margembruta": 41.7,
+        "margemliquida": 9.59,
+        "valordemercado": 75682721610.05,
+        "segmentname": "Papel e Celulose"
+    },
+    {
+        "companyname": "SYN PROP E TECH S.A.",
+        "ticker": "SYNE3",
+        "price": 8.04,
+        "margembruta": 42.97,
+        "margemliquida": 35.24,
+        "valordemercado": 1227261337.8,
+        "segmentname": "Exploração de Imóveis"
+    },
+    {
+        "companyname": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+        "ticker": "TAEE11",
+        "price": 34.03,
+        "margembruta": 62.19,
+        "margemliquida": 42.82,
+        "valordemercado": 11723297805.21,
+        "segmentname": "Energia Elétrica"
+    },
+    {
+        "companyname": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+        "ticker": "TAEE3",
+        "price": 11.33,
+        "margembruta": 62.19,
+        "margemliquida": 42.82,
+        "valordemercado": 11723297805.21,
+        "segmentname": "Energia Elétrica"
+    },
+    {
+        "companyname": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+        "ticker": "TAEE4",
+        "price": 11.4,
+        "margembruta": 62.19,
+        "margemliquida": 42.82,
+        "valordemercado": 11723297805.21,
+        "segmentname": "Energia Elétrica"
+    },
+    {
+        "companyname": "TAURUS ARMAS S.A.",
+        "ticker": "TASA3",
+        "price": 9.54,
+        "margembruta": 32.74,
+        "margemliquida": 4.8,
+        "valordemercado": 1188045220.36,
+        "segmentname": "Armas e Munições"
+    },
+    {
+        "companyname": "TAURUS ARMAS S.A.",
+        "ticker": "TASA4",
+        "price": 9.29,
+        "margembruta": 32.74,
+        "margemliquida": 4.8,
+        "valordemercado": 1188045220.36,
+        "segmentname": "Armas e Munições"
+    },
+    {
+        "companyname": "TECNOSOLO ENGENHARIA S.A.",
+        "ticker": "TCNO3",
+        "price": 1.2,
+        "margembruta": null,
+        "margemliquida": null,
+        "valordemercado": 6451072.5,
+        "segmentname": "Engenharia Consultiva"
+    },
+    {
+        "companyname": "TECNOSOLO ENGENHARIA S.A.",
+        "ticker": "TCNO4",
+        "price": 0.85,
+        "margembruta": null,
+        "margemliquida": null,
+        "valordemercado": 6451072.5,
+        "segmentname": "Engenharia Consultiva"
+    },
+    {
+        "companyname": "TECNISA S.A.",
+        "ticker": "TCSA3",
+        "price": 1.43,
+        "margembruta": -10.8,
+        "margemliquida": -32.8,
+        "valordemercado": 105275498.9,
+        "segmentname": "Incorporações"
+    },
+    {
+        "companyname": "TECHNOS S.A.",
+        "ticker": "TECN3",
+        "price": 5.65,
+        "margembruta": 55.13,
+        "margemliquida": 17.09,
+        "valordemercado": 362200114.75,
+        "segmentname": "Acessórios"
+    },
+    {
+        "companyname": "TEKA-TECELAGEM KUEHNRICH S.A.",
+        "ticker": "TEKA3",
+        "price": 42.5,
+        "margembruta": 24.58,
+        "margemliquida": -52.8,
+        "valordemercado": 16305201.5,
+        "segmentname": "Fios e Tecidos"
+    },
+    {
+        "companyname": "TEKA-TECELAGEM KUEHNRICH S.A.",
+        "ticker": "TEKA4",
+        "price": 27.35,
+        "margembruta": 24.58,
+        "margemliquida": -52.8,
+        "valordemercado": 16305201.5,
+        "segmentname": "Fios e Tecidos"
+    },
+    {
+        "companyname": "TELEC BRASILEIRAS S.A. TELEBRAS",
+        "ticker": "TELB3",
+        "price": 13.15,
+        "margembruta": -58.26,
+        "margemliquida": -61.12,
+        "valordemercado": 1046661302.15,
+        "segmentname": "Telecomunicações"
+    },
+    {
+        "companyname": "TELEC BRASILEIRAS S.A. TELEBRAS",
+        "ticker": "TELB4",
+        "price": 8.3,
+        "margembruta": -58.26,
+        "margemliquida": -61.12,
+        "valordemercado": 1046661302.15,
+        "segmentname": "Telecomunicações"
+    },
+    {
+        "companyname": "CONSTRUTORA TENDA S.A.",
+        "ticker": "TEND3",
+        "price": 15.85,
+        "margembruta": 37.64,
+        "margemliquida": 12.55,
+        "valordemercado": 1951043799.1,
+        "segmentname": "Incorporações"
+    },
+    {
+        "companyname": "TERRA SANTA AGRO S.A.",
+        "ticker": "TESA3",
+        "price": 48.0,
+        "margembruta": 15.86,
+        "margemliquida": -7.58,
+        "valordemercado": 1389696672.0,
+        "segmentname": "Agricultura"
+    },
+    {
+        "companyname": "TRACK & FIELD CO S.A.",
+        "ticker": "TFCO4",
+        "price": 9.35,
+        "margembruta": 56.88,
+        "margemliquida": 14.41,
+        "valordemercado": 1465313314.03,
+        "segmentname": "Tecidos. Vestuário e Calçados"
+    },
+    {
+        "companyname": "TEGMA GESTAO LOGISTICA S.A.",
+        "ticker": "TGMA3",
+        "price": 31.74,
+        "margembruta": 20.87,
+        "margemliquida": 12.29,
+        "valordemercado": 2094932522.1,
+        "segmentname": "Transporte Rodoviário"
+    },
+    {
+        "companyname": "AES TIETE ENERGIA SA",
+        "ticker": "TIET11",
+        "price": 12.54,
+        "margembruta": 0.0,
+        "margemliquida": -7.77,
+        "valordemercado": 5004795800.93,
+        "segmentname": "Energia Elétrica"
+    },
+    {
+        "companyname": "AES TIETE ENERGIA SA",
+        "ticker": "TIET3",
+        "price": 3.49,
+        "margembruta": 0.0,
+        "margemliquida": -7.77,
+        "valordemercado": 5004795800.93,
+        "segmentname": "Energia Elétrica"
+    },
+    {
+        "companyname": "AES TIETE ENERGIA SA",
+        "ticker": "TIET4",
+        "price": 3.51,
+        "margembruta": 0.0,
+        "margemliquida": -7.77,
+        "valordemercado": 5004795800.93,
+        "segmentname": "Energia Elétrica"
+    },
+    {
+        "companyname": "TIM PARTICIPACOES S.A.",
+        "ticker": "TIMS3",
+        "price": 16.18,
+        "margembruta": 53.21,
+        "margemliquida": 7.86,
+        "valordemercado": 39168615159.64,
+        "segmentname": "Telecomunicações"
+    },
+    {
+        "companyname": "TEKNO S.A. - INDUSTRIA E COMERCIO",
+        "ticker": "TKNO3",
+        "price": 50.88,
+        "margembruta": 27.49,
+        "margemliquida": 15.94,
+        "valordemercado": 186887000.88,
+        "segmentname": "Artefatos de Ferro e Aço"
+    },
+    {
+        "companyname": "TEKNO S.A. - INDUSTRIA E COMERCIO",
+        "ticker": "TKNO4",
+        "price": 78.0,
+        "margembruta": 27.49,
+        "margemliquida": 15.94,
+        "valordemercado": 186887000.88,
+        "segmentname": "Artefatos de Ferro e Aço"
+    },
+    {
+        "companyname": "TOTVS S.A.",
+        "ticker": "TOTS3",
+        "price": 29.15,
+        "margembruta": 69.01,
+        "margemliquida": 12.84,
+        "valordemercado": 17472556086.15,
+        "segmentname": "Programas e Serviços"
+    },
+    {
+        "companyname": "TEC TOY S.A.",
+        "ticker": "TOYB3",
+        "price": 2.29,
+        "margembruta": 24.06,
+        "margemliquida": -10.96,
+        "valordemercado": 71890222.22,
+        "segmentname": "Brinquedos e Jogos"
+    },
+    {
+        "companyname": "TEC TOY S.A.",
+        "ticker": "TOYB4",
+        "price": 2.5,
+        "margembruta": 24.06,
+        "margemliquida": -10.96,
+        "valordemercado": 71890222.22,
+        "segmentname": "Brinquedos e Jogos"
+    },
+    {
+        "companyname": "TPI - TRIUNFO PARTICIP. E INVEST. S.A.",
+        "ticker": "TPIS3",
+        "price": 6.65,
+        "margembruta": 32.87,
+        "margemliquida": 5.69,
+        "valordemercado": 292600000.0,
+        "segmentname": "Exploração de Rodovias"
+    },
+    {
+        "companyname": "TC TRADERS CLUB S.A.",
+        "ticker": "TRAD3",
+        "price": 6.44,
+        "margembruta": 32.14,
+        "margemliquida": -495.82,
+        "valordemercado": 257735362.36,
+        "segmentname": "Programas e Serviços"
+    },
+    {
+        "companyname": "TRISUL S.A.",
+        "ticker": "TRIS3",
+        "price": 5.49,
+        "margembruta": 25.6,
+        "margemliquida": 11.84,
+        "valordemercado": 1024530283.62,
+        "segmentname": "Incorporações"
+    },
+    {
+        "companyname": "TRÊS TENTOS AGROINDUSTRIAL SA",
+        "ticker": "TTEN3",
+        "price": 14.36,
+        "margembruta": 18.95,
+        "margemliquida": 6.63,
+        "valordemercado": 7155554210.92,
+        "segmentname": "Agricultura"
+    },
+    {
+        "companyname": "TUPY S.A.",
+        "ticker": "TUPY3",
+        "price": 21.62,
+        "margembruta": 17.77,
+        "margemliquida": 3.1,
+        "valordemercado": 3117117550.0,
+        "segmentname": "Material Rodoviário"
+    },
+    {
+        "companyname": "TEXTIL RENAUXVIEW S.A.",
+        "ticker": "TXRX3",
+        "price": 9.29,
+        "margembruta": 16.22,
+        "margemliquida": 17.56,
+        "valordemercado": 19809840.59,
+        "segmentname": "Fios e Tecidos"
+    },
+    {
+        "companyname": "TEXTIL RENAUXVIEW S.A.",
+        "ticker": "TXRX4",
+        "price": 2.24,
+        "margembruta": 16.22,
+        "margemliquida": 17.56,
+        "valordemercado": 19809840.59,
+        "segmentname": "Fios e Tecidos"
+    },
+    {
+        "companyname": "UNICASA INDÚSTRIA DE MÓVEIS S.A.",
+        "ticker": "UCAS3",
+        "price": 2.09,
+        "margembruta": 38.53,
+        "margemliquida": 5.76,
+        "valordemercado": 138120500.76,
+        "segmentname": "Móveis"
+    },
+    {
+        "companyname": "ULTRAPAR PARTICIPACOES S.A.",
+        "ticker": "UGPA3",
+        "price": 18.02,
+        "margembruta": 7.24,
+        "margemliquida": 1.99,
+        "valordemercado": 20099584909.36,
+        "segmentname": "Exploração. Refino e Distribuição"
+    },
+    {
+        "companyname": "UNIPAR CARBOCLORO S.A.",
+        "ticker": "UNIP3",
+        "price": 48.89,
+        "margembruta": 25.94,
+        "margemliquida": 9.54,
+        "valordemercado": 5556757208.09,
+        "segmentname": "Químicos Diversos"
+    },
+    {
+        "companyname": "UNIPAR CARBOCLORO S.A.",
+        "ticker": "UNIP5",
+        "price": 53.9,
+        "margembruta": 25.94,
+        "margemliquida": 9.54,
+        "valordemercado": 5556757208.09,
+        "segmentname": "Químicos Diversos"
+    },
+    {
+        "companyname": "UNIPAR CARBOCLORO S.A.",
+        "ticker": "UNIP6",
+        "price": 49.21,
+        "margembruta": 25.94,
+        "margemliquida": 9.54,
+        "valordemercado": 5556757208.09,
+        "segmentname": "Químicos Diversos"
+    },
+    {
+        "companyname": "USINAS SID DE MINAS GERAIS S.A.",
+        "ticker": "USIM3",
+        "price": 6.25,
+        "margembruta": 4.91,
+        "margemliquida": 3.09,
+        "valordemercado": 7875569898.92,
+        "segmentname": "Siderurgia"
+    },
+    {
+        "companyname": "USINAS SID DE MINAS GERAIS S.A.",
+        "ticker": "USIM5",
+        "price": 6.33,
+        "margembruta": 4.91,
+        "margemliquida": 3.09,
+        "valordemercado": 7875569898.92,
+        "segmentname": "Siderurgia"
+    },
+    {
+        "companyname": "USINAS SID DE MINAS GERAIS S.A.",
+        "ticker": "USIM6",
+        "price": 13.74,
+        "margembruta": 4.91,
+        "margemliquida": 3.09,
+        "valordemercado": 7875569898.92,
+        "segmentname": "Siderurgia"
+    },
+    {
+        "companyname": "VALE S.A.",
+        "ticker": "VALE3",
+        "price": 58.15,
+        "margembruta": 39.06,
+        "margemliquida": 22.86,
+        "valordemercado": 263943290777.0,
+        "segmentname": "Minerais Metálicos"
+    },
+    {
+        "companyname": "VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP. S.A.",
+        "ticker": "VAMO3",
+        "price": 6.12,
+        "margembruta": 45.7,
+        "margemliquida": 9.87,
+        "valordemercado": 6615919126.44,
+        "segmentname": "Máq. e Equip. Construção e Agrícolas"
+    },
+    {
+        "companyname": "VIBRA ENERGIA S.A.",
+        "ticker": "VBBR3",
+        "price": 21.45,
+        "margembruta": 5.06,
+        "margemliquida": 5.33,
+        "valordemercado": 24002550000.0,
+        "segmentname": "Exploração. Refino e Distribuição"
+    },
+    {
+        "companyname": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+        "ticker": "VITT3",
+        "price": 5.33,
+        "margembruta": 33.24,
+        "margemliquida": 9.08,
+        "valordemercado": 801173715.94,
+        "segmentname": "Fertilizantes e Defensivos"
+    },
+    {
+        "companyname": "VIVARA PARTICIPAÇOES S.A",
+        "ticker": "VIVA3",
+        "price": 23.82,
+        "margembruta": 68.63,
+        "margemliquida": 20.4,
+        "valordemercado": 5626230857.58,
+        "segmentname": "Acessórios"
+    },
+    {
+        "companyname": "VIVER INCORPORADORA E CONSTRUTORA S.A.",
+        "ticker": "VIVR3",
+        "price": 1.36,
+        "margembruta": 33.15,
+        "margemliquida": -49.28,
+        "valordemercado": 52177871.52,
+        "segmentname": "Incorporações"
+    },
+    {
+        "companyname": "TELEFÔNICA BRASIL S.A",
+        "ticker": "VIVT3",
+        "price": 51.0,
+        "margembruta": 44.11,
+        "margemliquida": 9.83,
+        "valordemercado": 84282006360.0,
+        "segmentname": "Telecomunicações"
+    },
+    {
+        "companyname": "TELEFÔNICA BRASIL S.A",
+        "ticker": "VIVT4",
+        "price": 45.34,
+        "margembruta": 44.11,
+        "margemliquida": 9.83,
+        "valordemercado": 84282006360.0,
+        "segmentname": "Telecomunicações"
+    },
+    {
+        "companyname": "VALID SOLUÇÕES S.A.",
+        "ticker": "VLID3",
+        "price": 24.79,
+        "margembruta": 36.36,
+        "margemliquida": 15.95,
+        "valordemercado": 2028723736.25,
+        "segmentname": "Serviços Diversos"
+    },
+    {
+        "companyname": "FERROVIA CENTRO-ATLANTICA S.A.",
+        "ticker": "VSPT3",
+        "price": 5.0,
+        "margembruta": 21.1,
+        "margemliquida": -14.35,
+        "valordemercado": 714038920.0,
+        "segmentname": "Transporte Ferroviário"
+    },
+    {
+        "companyname": "FERROVIA CENTRO-ATLANTICA S.A.",
+        "ticker": "VSPT4",
+        "price": 0.0,
+        "margembruta": 21.1,
+        "margemliquida": -14.35,
+        "valordemercado": 714038920.0,
+        "segmentname": "Transporte Ferroviário"
+    },
+    {
+        "companyname": "VESTE S.A. ESTILO",
+        "ticker": "VSTE3",
+        "price": 7.77,
+        "margembruta": 64.31,
+        "margemliquida": -0.15,
+        "valordemercado": 885783962.7,
+        "segmentname": "Tecidos. Vestuário e Calçados"
+    },
+    {
+        "companyname": "VITRU BRASIL EMPREEND. PARTICIP. E COMERCIO S.A.",
+        "ticker": "VTRU3",
+        "price": 8.16,
+        "margembruta": null,
+        "margemliquida": null,
+        "valordemercado": 1094847012.48,
+        "segmentname": "Serviços Educacionais"
+    },
+    {
+        "companyname": "VULCABRAS/AZALEIA S.A.",
+        "ticker": "VULC3",
+        "price": 16.6,
+        "margembruta": 42.23,
+        "margemliquida": 18.59,
+        "valordemercado": 4559293650.4,
+        "segmentname": "Calçados"
+    },
+    {
+        "companyname": "CM HOSPITALAR S.A.",
+        "ticker": "VVEO3",
+        "price": 2.05,
+        "margembruta": 13.91,
+        "margemliquida": -0.53,
+        "valordemercado": 661782246.4,
+        "segmentname": "Serv.Méd.Hospit..Análises e Diagnósticos"
+    },
+    {
+        "companyname": "WEG S.A.",
+        "ticker": "WEGE3",
+        "price": 52.1,
+        "margembruta": 25.74,
+        "margemliquida": 17.06,
+        "valordemercado": 218680267695.8,
+        "segmentname": "Motores . Compressores e Outros"
+    },
+    {
+        "companyname": "WESTWING COMERCIO VAREJISTA S.A.",
+        "ticker": "WEST3",
+        "price": 0.7,
+        "margembruta": 39.1,
+        "margemliquida": -21.92,
+        "valordemercado": 77765440.2,
+        "segmentname": "Produtos Diversos"
+    },
+    {
+        "companyname": "WHIRLPOOL S.A.",
+        "ticker": "WHRL3",
+        "price": 4.16,
+        "margembruta": 17.22,
+        "margemliquida": 4.49,
+        "valordemercado": 6313220849.78,
+        "segmentname": "Eletrodomésticos"
+    },
+    {
+        "companyname": "WHIRLPOOL S.A.",
+        "ticker": "WHRL4",
+        "price": 4.29,
+        "margembruta": 17.22,
+        "margemliquida": 4.49,
+        "valordemercado": 6313220849.78,
+        "segmentname": "Eletrodomésticos"
+    },
+    {
+        "companyname": "WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A.",
+        "ticker": "WIZC3",
+        "price": 6.05,
+        "margembruta": 63.22,
+        "margemliquida": 14.23,
+        "valordemercado": 967439056.1,
+        "segmentname": "Corretoras de Seguros"
+    },
+    {
+        "companyname": "WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.",
+        "ticker": "WLMM3",
+        "price": 26.84,
+        "margembruta": 11.25,
+        "margemliquida": 4.26,
+        "valordemercado": 1044639038.3,
+        "segmentname": "Material de Transporte"
+    },
+    {
+        "companyname": "WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.",
+        "ticker": "WLMM4",
+        "price": 30.23,
+        "margembruta": 11.25,
+        "margemliquida": 4.26,
+        "valordemercado": 1044639038.3,
+        "segmentname": "Material de Transporte"
+    },
+    {
+        "companyname": "ESTACIO PARTICIPACOES S.A.",
+        "ticker": "YDUQ3",
+        "price": 10.13,
+        "margembruta": 60.34,
+        "margemliquida": 3.87,
+        "valordemercado": 2928470060.63,
+        "segmentname": "Serviços Educacionais"
+    },
+    {
+        "companyname": "ZAMP S.A.",
+        "ticker": "ZAMP3",
+        "price": 3.03,
+        "margembruta": 66.21,
+        "margemliquida": -2.11,
+        "valordemercado": 1233011216.85,
+        "segmentname": "Restaurante e Similares"
     }
 ]
