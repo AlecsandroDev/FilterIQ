@@ -18,6 +18,7 @@ function carregarHistorico() {
 }
 
 carregarHistorico()
+alternarTema()
 
 document
     .getElementById("chatForm")

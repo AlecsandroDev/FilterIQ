@@ -8,6 +8,7 @@ from api import app
 MEMORIA = "Json/memoria_openai.json"
 EMPRESA_JSON = "Json/empresas.json"
 
+
 def carregar_json_empresas(data):
     with open(data, "r", encoding="utf-8") as arquivo:
         return json.load(arquivo)
@@ -58,7 +59,8 @@ def processamento_resposta(data):
     prompt += data
 
     response = OPENAI.chat.completions.create(
-        model="gpt-3.5-turbo", messages=[{"role": "user", "content": prompt}],
+        model="gpt-3.5-turbo",
+        messages=[{"role": "user", "content": prompt}],
     )
 
     texto = response.choices[0].message.content.strip()
@@ -68,7 +70,7 @@ def processamento_resposta(data):
 
 def api_openai(data):
     load_dotenv()
-    
+
     API_KEY_OPENAI = getenv("OPENAI_API_KEY")
 
     OPENAI = OpenAI(api_key=API_KEY_OPENAI)
@@ -77,7 +79,8 @@ def api_openai(data):
 
     print(prompt)
     response = OPENAI.chat.completions.create(
-        model="gpt-3.5-turbo", messages=[{"role": "user", "content": prompt}],
+        model="gpt-3.5-turbo",
+        messages=[{"role": "user", "content": prompt}],
     )
 
     texto = response.choices[0].message.content.strip()
@@ -88,13 +91,17 @@ def api_openai(data):
     historico.append({"mensagem": data, "resposta": texto_formatado})
     salvar_memoria_api(historico)
 
-
     return {"resposta": texto_formatado}
 
-@app.route('/')
-def index():
-    return render_template('index.html')
 
+@app.route("/")
+def index():
+    return render_template("help.html")
+
+
+@app.route("/talk")
+def talk():
+    return render_template("index.html")
 
 @app.route("/openai", methods=["POST"])
 def api():
