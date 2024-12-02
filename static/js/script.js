@@ -46,7 +46,7 @@ document.getElementById("chatForm").addEventListener("submit", function (event) 
     messagesContainer.scrollTop = messagesContainer.scrollHeight;
 
     axios
-        .post("https://filteriq.onrender.com/openai", {
+        .post("https://filteriq.onrender.com/talk/openai", {
             user: userMessage,
         }, {
             headers: {
