@@ -1,6 +1,6 @@
 function carregarHistorico() {
     axios
-        .get("http://localhost:5000/chat")
+        .get("http://127.0.0.1:5000/chat")
         .then(function (response) {
             const mensagens = response.data
             mensagens.forEach(function (interacao) {
@@ -48,7 +48,7 @@ document
         messagesContainer.scrollTop = messagesContainer.scrollHeight
 
         axios
-            .post("http://localhost:5000/openai", {
+            .post("http://127.0.0.1:5000/openai", {
                 user: userMessage,
             }, {
                 headers: {
