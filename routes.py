@@ -104,7 +104,7 @@ def talk():
     return render_template("index.html")
 
 
-@app.route("/talk/openai", methods=["POST"])
+@app.route("/openai", methods=["POST"])
 def api():
     data = request.get_json()
     pergunta = data["user"]
@@ -113,7 +113,7 @@ def api():
     return jsonify(resposta)
 
 
-@app.route("/talk/chat", methods=["GET"])
+@app.route("/chat", methods=["GET"])
 def carregar_chat():
     chat = carregar_memoria_api()
     historico = chat.get("historico", [])

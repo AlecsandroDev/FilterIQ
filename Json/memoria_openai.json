@@ -1,4 +1,12 @@
 {
     "historico": [
+        {
+            "mensagem": "oi",
+            "resposta": "<p style='bot-text'>Olá! Como posso te ajudar hoje?</p>"
+        },
+        {
+            "mensagem": "quanto é 1 + 1",
+            "resposta": "<p style='bot-text'>1 + 1 é igual a 2. Como posso te ajudar com mais alguma coisa?</p>"
+        }
     ]
 }
