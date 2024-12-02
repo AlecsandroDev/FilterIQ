@@ -1,6 +1,6 @@
 function carregarHistorico() {
     axios
-        .get("https://filteriq.onrender.com/talk/chat")
+        .get("https://filteriq.onrender.com/chat")
         .then(function (response) {
             const mensagens = response.data
             mensagens.forEach(function (interacao) {
@@ -48,12 +48,8 @@ document
         messagesContainer.scrollTop = messagesContainer.scrollHeight
 
         axios
-            .post("https://filteriq.onrender.com/talk/openai", {
-                user: userMessage,
-            }, {
-                headers: {
-                    'Content-Type': 'application/json'
-                }
+            .post("https://filteriq.onrender.com/openai", {
+                user: userMessage
             })
             .then(function (response) {
                 loadingElement.remove()
