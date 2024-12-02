@@ -70,7 +70,6 @@ def processamento_resposta(data):
 
 def api_openai(data):
     load_dotenv()
-
     API_KEY_OPENAI = getenv("OPENAI_API_KEY")
 
     OPENAI = OpenAI(api_key=API_KEY_OPENAI)
