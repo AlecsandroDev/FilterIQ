@@ -6,17 +6,17 @@ para o usuário com base na sua pergunta, sendo voltado para a área do Financei
 
 Esse projeto utilizou as seguintes Ferramentas:
   
-  1. HTML5 / CSS / JS
-  2. Python
+    1. HTML5 / CSS / JS
+    2. Python
 
 Esse projeto utilzou os seguintes Frameworks, Bibliotecas e API:
 
-  1. OpenAI API
-  2. Axios
-  3. Flaks
-  4. Json
-  5. Request
-  6. Dotenv
+    1. OpenAI API
+    2. Axios
+    3. Flaks
+    4. Json
+    5. Request
+    6. Dotenv
 
 Para o funcionamento desse projeto, é necessário de um **Token da OpenAI**, que fica no **.env** na variável "**OPENAI_API_KEY**".
 Após isso basta executar o comando "**python api.py**" e abrir o arquivo "**help.html**" que servirá para explicar o funcionamento
